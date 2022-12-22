@@ -10,10 +10,10 @@ module.exports = function () {
     } else {
       Array.push(arr);
     }
+    return Array; 
   }
   let Array = [];
   for (let i = 1; i <= 100; i++) {
     FizzBuzz(i);
-  }
-  return Array;
+  }  
 };
