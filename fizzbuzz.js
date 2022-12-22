@@ -1,18 +1,19 @@
 module.exports = function () {
   // write your code here
-  const results = [];
-  for(let i=1; i<=100; i++)
-  {
-    if(i%3===0 && i%5===0)
-    {
-      results.push('FizzBuzz');
-    } else if(i%3===0)
-    {
-      results.push('Fizz');
-    } else if(i%5===0)
-    {
-      results.push('Buzz');
-    } else results.push(i);
+  function FizzBuzz(arr) {
+    if (arr % 3 === 0 && arr % 5 === 0) {
+      Array.push("FizzBuzz");
+    } else if (arr % 3 === 0) {
+      Array.push("Fizz");
+    } else if (arr % 5 === 0) {
+      Array.push("Buzz");
+    } else {
+      Array.push(arr);
+    }
   }
-  return results;
-}
+  let Array = [];
+  for (let i = 1; i <= 100; i++) {
+    FizzBuzz(i);
+  }
+  return Array;
+};
