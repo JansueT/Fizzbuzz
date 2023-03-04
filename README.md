@@ -84,27 +84,20 @@ No installation needed
 ## 👥 Authors 
 
 > @JansueT
-> @Yemisirach
-> @Kwaku28
+> @mussieteka
 
-👤 **Author1**
+👤 **JansueT**
 
 - GitHub: [@githubhandle](https://github.com/JansueT)
 - instagram: [@cansuetas](https://instagram.com/cansuetas)
 - twitter: [@cansu8tas](https://twitter.com/cansu8tas)
 - linkedIn: [@LinkedIn](https://www.linkedin.com/in/cansu-tas-467844251/)
 
-👤 **Author2**
+👤 **Mussieteka**
 
-- GitHub: https://github.com/Yemisirach
-- Twitter: https://twitter.com/TamiratYemisrach
-- LinkedIn: https://www.linkedin.com/in/yemisirach
-
-👤 **Author3**
-
-- GitHub: [@Kwaku28](https://github.com/Kwaku28)
-- Twitter: [@kwakuamoafo](https://twitter.com/kwakuamoafo)
-- LinkedIn: [lawrenceamoafo](https://linkedin.com/in/lawrenceamoafo)
+- GitHub: [@mussieteka](https://github.com/MussieTeka)
+- Twitter: [@mussieteka](https://twitter.com/mussieteka)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/mussieteka/)
 
 <!-- CONTRIBUTING -->
 
