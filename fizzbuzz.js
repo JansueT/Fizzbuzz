@@ -40,23 +40,23 @@ function fizzBuzz() {
 
 console.log(fizzBuzz());
 
-//Cedric's solution;
-module.exports = function fizbuzz () {
-  // write your code here
-let arr = [];
+// //Cedric's solution;
+// module.exports = function fizbuzz () {
+//   // write your code here
+// let arr = [];
 
-for (let i=1; i<= 100; i++){
+// for (let i=1; i<= 100; i++){
 
-  if(i%15===0){
-      arr.push('fizbuzz' + '');
-  } else if (i%5===0) 
-  { arr.push('fizz' + '');
-  } else if (i%3===0){
-  arr.push('buzz' + '');
-  }else 
-  {arr.push(i + '');
-  }
-  }
-  return arr;
-}
-console.log(fizzBuzz());
+//   if(i%15===0){
+//       arr.push('fizbuzz' + '');
+//   } else if (i%5===0) 
+//   { arr.push('fizz' + '');
+//   } else if (i%3===0){
+//   arr.push('buzz' + '');
+//   }else 
+//   {arr.push(i + '');
+//   }
+//   }
+//   return arr;
+// }
+// console.log(fizzBuzz());
