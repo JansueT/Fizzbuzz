@@ -40,23 +40,24 @@ function fizzBuzz() {
 
 console.log(fizzBuzz());
 
-// //Cedric's solution;
-// module.exports = function fizbuzz () {
-//   // write your code here
-// let arr = [];
+ //Cedric's solution;
 
-// for (let i=1; i<= 100; i++){
-
-//   if(i%15===0){
-//       arr.push('fizbuzz' + '');
-//   } else if (i%5===0) 
-//   { arr.push('fizz' + '');
-//   } else if (i%3===0){
-//   arr.push('buzz' + '');
-//   }else 
-//   {arr.push(i + '');
-//   }
-//   }
-//   return arr;
-// }
-// console.log(fizzBuzz());
+module.exports = function () {
+  // write your code here
+  let array = [];
+  for (let i = 1; i <= 100; i++) {
+    let value = "";
+    if (i % 3 === 0) {
+      value += "Fizz";
+    }
+    if (i % 5 === 0) {
+      value += "Buzz";
+    }
+    if (value !== "") {
+      array.push(value);
+    } else {
+      array.push(i);
+    }
+  }
+  return array;
+};
